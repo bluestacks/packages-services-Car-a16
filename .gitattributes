@@ -1,0 +1,6 @@
+/surround_view/ml/lib_arm64/libdemoobjectdetection.so filter=lfs diff=lfs merge=lfs -text
+/surround_view/ml/lib_arm64/libobjectdetection.so filter=lfs diff=lfs merge=lfs -text
+/surround_view/ml/lib_x86/libdemoobjectdetection.so filter=lfs diff=lfs merge=lfs -text
+/surround_view/ml/lib_x86/libobjectdetection.so filter=lfs diff=lfs merge=lfs -text
+/surround_view/ml/lib_x86_64/libdemoobjectdetection.so filter=lfs diff=lfs merge=lfs -text
+/surround_view/ml/lib_x86_64/libobjectdetection.so filter=lfs diff=lfs merge=lfs -text
